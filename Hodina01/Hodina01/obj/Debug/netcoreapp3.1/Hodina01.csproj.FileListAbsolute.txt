@@ -1,0 +1,13 @@
+C:\Users\miram\source\repos\Hodina01\Hodina01\bin\Debug\netcoreapp3.1\Hodina01.exe
+C:\Users\miram\source\repos\Hodina01\Hodina01\bin\Debug\netcoreapp3.1\Hodina01.deps.json
+C:\Users\miram\source\repos\Hodina01\Hodina01\bin\Debug\netcoreapp3.1\Hodina01.runtimeconfig.json
+C:\Users\miram\source\repos\Hodina01\Hodina01\bin\Debug\netcoreapp3.1\Hodina01.runtimeconfig.dev.json
+C:\Users\miram\source\repos\Hodina01\Hodina01\bin\Debug\netcoreapp3.1\Hodina01.dll
+C:\Users\miram\source\repos\Hodina01\Hodina01\bin\Debug\netcoreapp3.1\Hodina01.pdb
+C:\Users\miram\source\repos\Hodina01\Hodina01\obj\Debug\netcoreapp3.1\Hodina01.csprojAssemblyReference.cache
+C:\Users\miram\source\repos\Hodina01\Hodina01\obj\Debug\netcoreapp3.1\Hodina01.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\Hodina01\Hodina01\obj\Debug\netcoreapp3.1\Hodina01.AssemblyInfo.cs
+C:\Users\miram\source\repos\Hodina01\Hodina01\obj\Debug\netcoreapp3.1\Hodina01.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\Hodina01\Hodina01\obj\Debug\netcoreapp3.1\Hodina01.dll
+C:\Users\miram\source\repos\Hodina01\Hodina01\obj\Debug\netcoreapp3.1\Hodina01.pdb
+C:\Users\miram\source\repos\Hodina01\Hodina01\obj\Debug\netcoreapp3.1\Hodina01.genruntimeconfig.cache
